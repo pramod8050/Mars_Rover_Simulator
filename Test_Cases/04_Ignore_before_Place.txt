@@ -1,0 +1,6 @@
+MOVE
+LEFT
+RIGHT
+REPORT
+Place 0,0, North 
+Report 
