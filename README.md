@@ -2,6 +2,15 @@
 
 Toy robot simulator for a 5x5 tabletop (valid coordinates are from 0 to 4).
 
+
+Main Commands to run the script
+
+To enable the live 2D plot (requires matplotlib):
+
+    py rover.py 
+    py rover.py Test_Cases\01_basic_move.txt 
+
+
 ## Commands Supported
 - PLACE X,Y,FACING
 - MOVE
