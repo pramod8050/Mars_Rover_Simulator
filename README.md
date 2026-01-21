@@ -36,6 +36,8 @@ py rover.py Test_Cases\01_basic_move.txt
 - A set of .txt test case files are provided in the Test_Cases/ directory.
 - Each file contains a sequence of commands to exercise the simulator.
 
+## Run Unit Tests (Pytest)
+- py -m pytest
 
 ## Optional Plot mode 
 
